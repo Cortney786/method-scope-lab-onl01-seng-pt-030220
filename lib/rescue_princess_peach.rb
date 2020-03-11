@@ -1,8 +1,8 @@
-def rescue_princess_peach
+def rescue_princess_peach()
   puts status "Hooray! Mario has rescued Princess Peach!"
 end
 
 ## Comment the below back in to see method scope in action!
 
-# rescue_princess_peach
+# rescue_princess_peach(rescue)
 # puts Hooray! Mario has rescued the Princess Peach.
