@@ -4,5 +4,5 @@ end
 
 ## Comment the below back in to see method scope in action!
 
-# rescue_princess_peach
-# puts status Hooray! Mario has rescued the Princess Peach.
+# rescue_princess_peach Hooray! Mario has rescued the Princess Peach.
+# puts status 
