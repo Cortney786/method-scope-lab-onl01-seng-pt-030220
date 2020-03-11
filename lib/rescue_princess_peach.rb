@@ -1,5 +1,5 @@
-def rescue_princess_peach(Mario)
-  puts "Hooray!#{name} has rescued Princess Peach!"
+def rescue_princess_peach(phrase)
+  puts phrase "Hooray!#{name} has rescued Princess Peach!"
 end
 
 ## Comment the below back in to see method scope in action!
